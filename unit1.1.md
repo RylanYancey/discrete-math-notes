@@ -23,8 +23,10 @@ sets may also contain sets within themselves.
 - Q => set of rational numbers
 - R => set of real numbers
 
-- \+ => positives only
-- \- => negatives only
+- \+ => positives only (not including zero)
+- \- => negatives only (not including zero)
+
+- nonneg => positives only (including zero)
 
 if X is a finite set, we definte |X| as the Cardinality of X. Cardinality is the number of elements, no matter what they are.
 - A = {NULL} cardinality = 1
