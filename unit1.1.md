@@ -19,7 +19,21 @@ $$C = \\{4.5, \text{Lady Gaga}, \pi, 14\\}$$
 
 sets may also contain sets within themselves.
 
-$$\Z$$ => Integers\
-$$\Q%% => Rational Numbers\
-$$\R$$ => Real Numbers\
+- Z => set of integers
+- Q => set of rational numbers
+- R => set of real numbers
 
+- \+ => positives only
+- \- => negatives only
+
+if X is a finite set, we definte |X| as the Cardinality of X. Cardinality is the number of elements, no matter what they are.
+- A = {NULL} cardinality = 1
+- A = {1, 2, 3} cardinality = 3
+- A = {{1, 2}, {3, 4}} cardinality = 2
+
+Sets can also be subsets of other sets:
+
+$$\text{X} \subseteq \text{Y}$$
+
+this means X is a subset, or is equal to, Y. 
+There can also be proper subsets, which means X cannot be equal to Y. there is no bar underneath the symbol.
