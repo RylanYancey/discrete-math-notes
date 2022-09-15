@@ -9,8 +9,7 @@ r ^ ~r => must always be false.
 
 p -> q == (p ^ ~q) -> (r ^ ~r)
 
-# lowest terms
+# Proof by Cases
 
-not sure what he said
-
-idk what im supposed to get here
+used when the original hypothesis naturally divides itself into various cases
+for example, the hypothesis "x is a real number" can be divided into cases: (a) x is a nonnegative real number and b x is a negative real number.
